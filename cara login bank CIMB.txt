@@ -1,0 +1,27 @@
+1. Isikan user id di //*[@id=\"userId\"] -> NINGRUM0212 
+2. Baru tombol ke halaman untuk isi password dapat diklik
+3. klik tombol  //*[@id=\"nextButton\"]
+4. Isikan Password di //*[@id=\"passwordField\"] -> NingrumF_12
+5. Baru tombol ke halaman utama dapat diklik
+6. klik tombol //*[@id=\"loginButton\"]
+7. klik menu my accounts //*[@id=\"myAccount-button-burgermenu\"]/a
+8. klik text view histori //*[@id=\"balanceSubtitleButton-C1\"]
+9. pilih tabel yang akan di scraping //*[@id=\"trxTable\"]/table
+10. klik tombol logout //*[@id=\"responsive-header\"]/div/div/div/div[2]/div[6]/p
+
+
+//*[@id="secureword"]/div[2]/div
+
+
+U: NINGRUM0212
+
+P: NingrumF_12
+
+//*[@id="secureword"]/div[2]/div
+
+https://github.com/nabiltamami12/PA-NING
+
+git config–global user.name nabiltamami12
+
+
+git branch --set-upstream master origin
